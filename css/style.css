@@ -1,0 +1,12 @@
+.fa-envelope, .fa-phone, .fa-map-marker-alt {
+    color: cornflowerblue;
+    font-size: 2em;
+    margin: 1rem;
+}
+.padding {
+    padding: 4rem;
+}
+footer {
+    background-color: #9ED0E6;
+    color: #504B3A;
+}
